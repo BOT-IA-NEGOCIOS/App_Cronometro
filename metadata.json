@@ -1,0 +1,6 @@
+{
+  "name": "Tabata Timer Pro",
+  "description": "Cronómetro Tabata e intervalos para entrenamiento físico con fases dinámicas, audio y rutinas personalizadas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
